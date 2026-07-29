@@ -4,3 +4,14 @@ Tugas reflektif — tidak dinilai orang lain, tapi wajib dikerjakan supaya arah 
 1. Tulis dalam 3–5 kalimat: kenapa SOC Analyst / Blue Team jadi target awalmu (atau kenapa kamu justru condong ke pentest)
 2. Buat akun TryHackMe dan akun GitHub (tempat menyimpan catatan belajar nanti)
 3. Jelaskan dengan kata-katamu sendiri: apa beda Blue Team vs Red Team
+
+JAWAB:
+1. Menurutku jadi SOC Analyst / Blue Team merupakan target realistis bagi aku yg tidak memiliki background di bidang IT secara mendalam,
+dan ingin segera mengejar industry match and then bisa upskilling ke materi2 atau role lainnya guna memperdalam ilmu di bidang Cybersecurity
+
+2. Sudah aku bikin dan sudah mencoba menyelesaikan beberapa challenge
+
+3. BLUE TEAM: adalah role dimana mereka akan monitoring, investigating, and solving the threat if they come into our system,
+jadi tugas blue team secara garis besar adalah melindungi keseluruhan dari sistem yg ada didalam perusahaan
+   READ TEAM: adalah role dimana mereka akan menyerang sistem suatu perusahaan dengan legal dan atas ijin perusahaan tersebut tujuannya adalah
+mengetahui kelemahan-kelemahan atau celah pada sistem tersebut sebelum penyerang asli/hacker menyerang sistem tersebut.
